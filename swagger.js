@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:9000/", // Deployed backend URL
+        url: "https://ninja-backend-nyf7.onrender.com/", // Deployed backend URL
       },
     ],
     components: {
