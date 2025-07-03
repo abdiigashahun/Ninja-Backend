@@ -1,6 +1,6 @@
 
 
-## 🛠 Ninja Eccomerce-Backend
+##  Ninja Eccomerce-Backend
 
 This is the **backend API** for the Ninja E-Commerce web application. Built with **Node.js**, **Express**, and **MongoDB**, it provides all core services such as product management, authentication, order handling, cart logic, newsletter subscription, and admin functionalities.
 
