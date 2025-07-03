@@ -1,30 +1,30 @@
 
 
-## 🛠️ Ninja Backend
+## 🛠 Ninja Eccomerce-Backend
 
 This is the **backend API** for the Ninja E-Commerce web application. Built with **Node.js**, **Express**, and **MongoDB**, it provides all core services such as product management, authentication, order handling, cart logic, newsletter subscription, and admin functionalities.
 
-* 🔗 **Live Backend**: [https://ninja-backend-nyf7.onrender.com](https://ninja-backend-nyf7.onrender.com)
-* 📘 **Swagger API Docs**: [https://ninja-backend-nyf7.onrender.com/api-docs](https://ninja-backend-nyf7.onrender.com/api-docs)
-* 💻 **Frontend Repo**: [https://github.com/abdiigashahun/Ninja](https://github.com/abdiigashahun/Ninja)
+*  **Live Backend**: [https://ninja-backend-nyf7.onrender.com](https://ninja-backend-nyf7.onrender.com)
+*  **Swagger API Docs**: [https://ninja-backend-nyf7.onrender.com/api-docs](https://ninja-backend-nyf7.onrender.com/api-docs)
+*  **Frontend Repo**: [https://github.com/abdiigashahun/Ninja](https://github.com/abdiigashahun/Ninja)
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔐 User Authentication with JWT (Register/Login)
-* 👤 Admin-only routes for users, orders & product management
-* 🛍️ Product CRUD with filtering (search, category, size, price, etc.)
-* 🛒 Cart system for guests and logged-in users
-* 📦 Checkout + Order system
-* 💳 Payment integration and status updates
-* 🌐 Newsletter subscriptions
-* ☁️ Image uploads using Cloudinary
-* 📘 **Swagger UI** documentation for testing all endpoints
+*  User Authentication with JWT (Register/Login)
+*  Admin-only routes for users, orders & product management
+*  Product CRUD with filtering (search, category, size, price, etc.)
+*  Cart system for guests and logged-in users
+*  Checkout + Order system
+*  Payment integration and status updates
+*  Newsletter subscriptions
+*  Image uploads using Cloudinary
+*  **Swagger UI** documentation for testing all endpoints
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Backend**: Node.js, Express
 * **Database**: MongoDB + Mongoose
@@ -35,7 +35,7 @@ This is the **backend API** for the Ninja E-Commerce web application. Built with
 
 ---
 
-## 🧪 Getting Started Locally
+##  Getting Started Locally
 
 1. **Clone the repo**
 
@@ -77,7 +77,7 @@ This is the **backend API** for the Ninja E-Commerce web application. Built with
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Ninja-Backend/
@@ -94,7 +94,7 @@ Ninja-Backend/
 
 ---
 
-## 📘 Swagger API Docs
+##  Swagger API Docs
 
 All API endpoints are documented and testable via Swagger UI.
 
@@ -109,7 +109,7 @@ Bearer <your_jwt_token>
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 * **Name**: Abdi Gashahun
 * **Email**: [abdigashahun0@gmail.com](mailto:abdigashahun0@gmail.com)
