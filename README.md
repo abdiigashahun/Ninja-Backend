@@ -1,12 +1,12 @@
 
 
-# 🛠️ Ninja Backend
+## 🛠️ Ninja Backend
 
 This is the **backend API** for the Ninja E-Commerce web application. Built with **Node.js**, **Express**, and **MongoDB**, it provides all core services such as product management, authentication, order handling, cart logic, newsletter subscription, and admin functionalities.
 
-> 🔗 **Live Backend**: [https://ninja-backend-nyf7.onrender.com](https://ninja-backend-nyf7.onrender.com)
-> 📘 **Swagger API Docs**: [https://ninja-backend-nyf7.onrender.com/api-docs](https://ninja-backend-nyf7.onrender.com/api-docs)
-> 💻 **Frontend Repo**: [https://github.com/abdiigashahun/Ninja](https://github.com/abdiigashahun/Ninja)
+* 🔗 **Live Backend**: [https://ninja-backend-nyf7.onrender.com](https://ninja-backend-nyf7.onrender.com)
+* 📘 **Swagger API Docs**: [https://ninja-backend-nyf7.onrender.com/api-docs](https://ninja-backend-nyf7.onrender.com/api-docs)
+* 💻 **Frontend Repo**: [https://github.com/abdiigashahun/Ninja](https://github.com/abdiigashahun/Ninja)
 
 ---
 
